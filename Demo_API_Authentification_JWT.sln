@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_API_Authentification_JWT", "Demo_API_Authentification_JWT\Demo_API_Authentification_JWT.csproj", "{8FA7A5CE-D25E-41A1-812B-3E9C5894CEF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignatureGenerator", "SignatureGenerator\SignatureGenerator.csproj", "{FAF8DA39-10C2-43A7-9D93-341E131814C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA7A5CE-D25E-41A1-812B-3E9C5894CEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA7A5CE-D25E-41A1-812B-3E9C5894CEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA7A5CE-D25E-41A1-812B-3E9C5894CEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA7A5CE-D25E-41A1-812B-3E9C5894CEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF8DA39-10C2-43A7-9D93-341E131814C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF8DA39-10C2-43A7-9D93-341E131814C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF8DA39-10C2-43A7-9D93-341E131814C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF8DA39-10C2-43A7-9D93-341E131814C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEC9B1EE-A4FD-407A-895E-BC5BE6956FF5}
+	EndGlobalSection
+EndGlobal
